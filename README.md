@@ -27,6 +27,12 @@ This project provides a streamlined way to run [COLMAP](https://colmap.github.io
 
 All dependencies are installed in the notebook—no local setup needed.
 
+## Output Example
+
+Visualized in [PLAYCANVAS](https://playcanvas.com/):
+
+![Output Example](example.jpg)
+
 ## References
 
 - [COLMAP: Structure-from-Motion and Multi-View Stereo](https://colmap.github.io/)
