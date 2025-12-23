@@ -30,7 +30,7 @@ All dependencies are installed in the notebook—no local setup needed.
 ## References
 
 - [COLMAP: Structure-from-Motion and Multi-View Stereo](https://colmap.github.io/)
-- [3D Gaussian Splatting Papers & Projects](https://repo-sup3r.github.io/gaussian-splatting/)
+- [3D Gaussian Splatting Papers & Projects](https://github.com/graphdeco-inria/gaussian-splatting)
 
 ## License
 
